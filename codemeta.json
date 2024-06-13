@@ -4,13 +4,15 @@
   "applicationCategory": "Software Development",
   "author": [
     {
-      "familyName": "asd",
+      "familyName": "Name",
       "id": "_:author_1",
-      "givenName": "gdgfd",
+      "givenName": "Real ",
       "type": "Person"
     },
     {
+      "endDate": "2024-06-19",
       "roleName": "Test",
+      "startDate": "2024-06-20",
       "schema:author": "_:author_1",
       "type": "Role"
     }
@@ -41,7 +43,10 @@
   ],
   "programmingLanguage": [
     "Python",
-    "JavaScript"
+    "JavaScript",
+    "Go",
+    "Groovy",
+    "Haskell"
   ],
   "referencePublication": "Doe, J. (2023). Example Project. Journal of Examples.",
   "relatedLink": [
