@@ -1,0 +1,19 @@
+title: Example Project
+authors:
+  - given-names: gdgfd
+    family-names: asd
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata from this file.
+type: software
+identifiers:
+  - type: doi
+    value: 12345-abcde
+abstract: This is an example project to demonstrate a JSON schema.
+keywords:
+  - example
+  - json
+  - schema
+license: MIT
+repository-code: https://github.com/example/project
+version: 1.0.0
+date-released: 2007-06-29
