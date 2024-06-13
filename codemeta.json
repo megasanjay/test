@@ -1,0 +1,62 @@
+{
+  "name": "dsfsdf",
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "applicationCategory": "Software Development",
+  "author": [
+    {
+      "familyName": "asd",
+      "id": "_:author_1",
+      "givenName": "gdgfd",
+      "type": "Person"
+    },
+    {}
+  ],
+  "codemeta:continuousIntegration": {
+    "id": "https://ci.example.com"
+  },
+  "codeRepository": "https://github.com/example/project",
+  "contIntegration": "https://ci.example.com",
+  "dateCreated": "2007-06-29",
+  "dateModified": "2007-06-29",
+  "datePublished": "2007-06-29",
+  "description": "This is an example project to demonstrate a JSON schema.",
+  "developmentStatus": "Active",
+  "downloadUrl": "https://example.com/download/1.0.0",
+  "funding": "FC-67890",
+  "identifier": "12345-abcde",
+  "isPartOf": "Example Suite",
+  "issueTracker": "https://issues.example.com",
+  "keywords": [
+    "example",
+    "json",
+    "schema"
+  ],
+  "license": "MIT",
+  "operatingSystem": [
+    "Cross-platform"
+  ],
+  "programmingLanguages": [
+    "Python",
+    "JavaScript"
+  ],
+  "referencePublication": "Doe, J. (2023). Example Project. Journal of Examples.",
+  "relatedLink": [
+    "https://example.com/docs",
+    "https://example.com/tutorials"
+  ],
+  "reviewAspect": "Code Quality",
+  "runtimePlatform": [
+    "Node.js"
+  ],
+  "schema:releaseNotes": "Initial stable release.",
+  "schema:review": {
+    "schema:reviewAspect": "Code Quality",
+    "schema:reviewBody": "This project has been thoroughly reviewed for code quality.",
+    "type": "schema:Review"
+  },
+  "softwareRequirements": [
+    "Docker"
+  ],
+  "version": "1.0.0",
+  "type": "SoftwareSourceCode"
+}
