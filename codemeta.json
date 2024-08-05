@@ -1,0 +1,98 @@
+{
+  "name": "Example Project",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "applicationCategory": "Software Development",
+  "author": [
+    {
+      "familyName": "Name",
+      "id": "_:author_1",
+      "givenName": "Real ",
+      "type": "Person"
+    },
+    {
+      "endDate": "2024-06-19",
+      "roleName": "Test",
+      "startDate": "2024-06-20",
+      "schema:author": "_:author_1",
+      "type": "Role"
+    },
+    {
+      "endDate": "2024-08-24",
+      "roleName": "dfgdf",
+      "startDate": "2024-08-15",
+      "schema:author": "_:author_1",
+      "type": "Role"
+    }
+  ],
+  "contributor": [
+    {
+      "affiliation": {
+        "name": "sdfds",
+        "type": "Organization"
+      },
+      "familyName": "sdf",
+      "id": "_:contributor_1",
+      "givenName": "sdf",
+      "type": "Person"
+    },
+    {
+      "endDate": "2024-08-31",
+      "roleName": "dfgfd",
+      "startDate": "2024-08-23",
+      "schema:contributor": "_:contributor_1"
+    }
+  ],
+  "codemeta:continuousIntegration": {
+    "id": "https://ci.example.com"
+  },
+  "codemeta:isSourceCodeOf": {
+    "id": "fsgdf"
+  },
+  "codeRepository": "https://github.com/example/project",
+  "contIntegration": "https://ci.example.com",
+  "dateCreated": "2007-06-29",
+  "dateModified": "2007-06-29",
+  "datePublished": "2007-06-29",
+  "description": "This is an example project to demonstrate a JSON schema.",
+  "developmentStatus": "Active",
+  "downloadUrl": "https://example.com/download/1.0.0",
+  "funding": "FC-67890",
+  "identifier": "10.1234/zenodo.4321",
+  "isPartOf": "https://github.com/example/project",
+  "issueTracker": "https://issues.example.com",
+  "keywords": [
+    "example",
+    "json",
+    "schema"
+  ],
+  "license": "https://spdx.org/licenses/MIT",
+  "operatingSystem": [
+    "Cross-platform"
+  ],
+  "programmingLanguage": [
+    "Python",
+    "JavaScript",
+    "Go",
+    "Groovy",
+    "Haskell"
+  ],
+  "referencePublication": "Doe, J. (2023). Example Project. Journal of Examples.",
+  "relatedLink": [
+    "https://example.com/docs",
+    "https://example.com/tutorials"
+  ],
+  "runtimePlatform": [
+    "Node.js"
+  ],
+  "schema:releaseNotes": "Initial stable release.",
+  "schema:review": {
+    "schema:reviewAspect": "Code Quality",
+    "schema:reviewBody": "This project has been thoroughly reviewed for code quality.",
+    "type": "schema:Review"
+  },
+  "softwareRequirements": [
+    "Docker"
+  ],
+  "version": "1.0.0",
+  "type": "SoftwareSourceCode"
+}
