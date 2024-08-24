@@ -1,0 +1,30 @@
+{
+  "name": "test",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub (@fairdataihub)",
+        "type": "Organization"
+      },
+      "email": "ssoundarajan@calmi2.org",
+      "familyName": "Soundarajan",
+      "id": "_:author_1",
+      "givenName": "Sanjay",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/megasanjay/test",
+  "dateCreated": "2023-10-28",
+  "description": "Hello",
+  "issueTracker": "https://github.com/megasanjay/test/issues",
+  "keywords": [
+    "Test"
+  ],
+  "operatingSystem": [],
+  "programmingLanguage": [],
+  "relatedLink": [],
+  "runtimePlatform": [],
+  "softwareRequirements": [],
+  "type": "SoftwareSourceCode"
+}
