@@ -17,7 +17,7 @@
   "codeRepository": "https://github.com/megasanjay/test",
   "dateCreated": "2023-10-28",
   "description": "Hello",
-  "identifier": "10.5281/zenodo.114954",
+  "identifier": "10.5281/zenodo.13917292",
   "issueTracker": "https://github.com/megasanjay/test/issues",
   "keywords": [
     "Test"
@@ -27,5 +27,8 @@
   "relatedLink": [],
   "runtimePlatform": [],
   "softwareRequirements": [],
-  "type": "SoftwareSourceCode"
+  "type": "SoftwareSourceCode",
+  "version": "v2.0.9",
+  "dateModified": "2024-10-11",
+  "datePublished": "2024-10-11"
 }
