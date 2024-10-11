@@ -7,8 +7,10 @@ authors:
 cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 type: software
-doi: 10.5281/zenodo.114954
+doi: 10.5281/zenodo.13917292
 abstract: Hello
 keywords:
   - Test
 repository-code: https://github.com/megasanjay/test
+date-released: '2024-10-11'
+version: v2.0.9
