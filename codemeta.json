@@ -1,6 +1,7 @@
 {
   "name": "test",
   "@context": "https://w3id.org/codemeta/3.0",
+  "applicationCategory": "Authentication server",
   "author": [
     {
       "affiliation": {
@@ -9,25 +10,89 @@
       },
       "email": "ssoundarajan@calmi2.org",
       "familyName": "Soundarajan",
-      "id": "_:author_1",
+      "id": "https://github.com/megasanjay/test/pull/41/files",
       "givenName": "Sanjay",
       "type": "Person"
+    },
+    {
+      "endDate": "2024-10-29",
+      "roleName": "Test ",
+      "startDate": "2024-10-29",
+      "schema:author": "https://github.com/megasanjay/test/pull/41/files",
+      "type": "Role"
+    },
+    {
+      "endDate": "2024-10-22",
+      "roleName": "role 2",
+      "startDate": "2024-10-22",
+      "schema:author": "https://github.com/megasanjay/test/pull/41/files",
+      "type": "Role"
     }
   ],
+  "contributor": [
+    {
+      "affiliation": {
+        "name": "University",
+        "type": "Organization"
+      },
+      "email": "test@ma.co",
+      "familyName": "name",
+      "id": "https://github.com/megasanjay/test/pull/41/files",
+      "givenName": "test",
+      "type": "Person"
+    },
+    {
+      "endDate": "2024-10-02",
+      "roleName": "role 1",
+      "startDate": "2024-10-09",
+      "schema:contributor": "https://github.com/megasanjay/test/pull/41/files",
+      "type": "Role"
+    }
+  ],
+  "codemeta:continuousIntegration": {
+    "id": "https://github.com/megasanjay/test/pull/41/files"
+  },
+  "codemeta:isSourceCodeOf": {
+    "id": "https://github.com/megasanjay/test/pull/41/files"
+  },
   "codeRepository": "https://github.com/megasanjay/test",
-  "dateCreated": "2023-10-27",
-  "dateModified": "2024-10-10",
-  "datePublished": "2024-10-10",
+  "contIntegration": "https://github.com/megasanjay/test/pull/41/files",
+  "dateCreated": "2023-10-26",
+  "dateModified": "2024-10-09",
+  "datePublished": "2024-10-09",
   "description": "Hello",
+  "developmentStatus": "active",
+  "downloadUrl": "https://github.com/megasanjay/test/pull/41/files",
+  "funder": {
+    "name": "sdfsdf",
+    "type": "Organization"
+  },
+  "funding": "dsfdsf",
   "identifier": "10.5281/zenodo.13917292",
+  "isPartOf": "https://github.com/megasanjay/test/pull/41/files",
   "issueTracker": "https://github.com/megasanjay/test/issues",
   "keywords": [
-    "asdas"
+    "asdas",
+    "dsfs s df"
   ],
-  "license": "https://spdx.org/licenses/https://spdx.org/licenses/MIT",
+  "license": "https://spdx.org/licenses/APSL-2.0",
+  "operatingSystem": [
+    "Windows 8.1"
+  ],
   "programmingLanguage": [
     "C#",
     "C++"
+  ],
+  "relatedLink": [
+    "https://github.com/megasanjay/test/pull/41/files",
+    "https://github.com/megasanjay/test/pull/41/files"
+  ],
+  "runtimePlatform": [
+    ".Net"
+  ],
+  "schema:releaseNotes": "Some notes",
+  "softwareRequirements": [
+    "https://github.com/megasanjay/test/pull/41/files"
   ],
   "version": "v2.0.9",
   "type": "SoftwareSourceCode"
