@@ -15,20 +15,20 @@
     }
   ],
   "codeRepository": "https://github.com/megasanjay/test",
-  "dateCreated": "2023-10-28",
+  "dateCreated": "2023-10-27",
+  "dateModified": "2024-10-10",
+  "datePublished": "2024-10-10",
   "description": "Hello",
-  "identifier": "10.5281/zenodo.117050",
+  "identifier": "10.5281/zenodo.13917292",
   "issueTracker": "https://github.com/megasanjay/test/issues",
   "keywords": [
-    "Test"
+    "asdas"
   ],
-  "operatingSystem": [],
-  "programmingLanguage": [],
-  "relatedLink": [],
-  "runtimePlatform": [],
-  "softwareRequirements": [],
-  "type": "SoftwareSourceCode",
-  "version": "v2",
-  "dateModified": "2024-10-12",
-  "datePublished": "2024-10-11"
+  "license": "https://spdx.org/licenses/https://spdx.org/licenses/MIT",
+  "programmingLanguage": [
+    "C#",
+    "C++"
+  ],
+  "version": "v2.0.9",
+  "type": "SoftwareSourceCode"
 }
