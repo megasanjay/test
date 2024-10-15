@@ -11,7 +11,7 @@ doi: 10.5281/zenodo.13917292
 abstract: Hello
 keywords:
   - asdas
-license: https://spdx.org/licenses/MIT
+license: https://spdx.org/licenses/APSL-2.0
 repository-code: https://github.com/megasanjay/test
-date-released: 2024-10-10
+date-released: 2024-10-09
 version: v2.0.9
