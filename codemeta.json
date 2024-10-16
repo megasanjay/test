@@ -15,16 +15,16 @@
       "type": "Person"
     },
     {
-      "endDate": "2024-10-29",
+      "endDate": "2024-10-28",
       "roleName": "Test ",
-      "startDate": "2024-10-29",
+      "startDate": "2024-10-28",
       "schema:author": "https://github.com/megasanjay/test/pull/41/files",
       "type": "Role"
     },
     {
-      "endDate": "2024-10-22",
+      "endDate": "2024-10-21",
       "roleName": "role 2",
-      "startDate": "2024-10-22",
+      "startDate": "2024-10-21",
       "schema:author": "https://github.com/megasanjay/test/pull/41/files",
       "type": "Role"
     }
@@ -42,10 +42,10 @@
       "type": "Person"
     },
     {
-      "endDate": "2024-10-02",
+      "endDate": "2024-10-01",
       "roleName": "role 1",
-      "startDate": "2024-10-09",
-      "schema:contributor": "https://github.com/megasanjay/test/pull/41/files",
+      "startDate": "2024-10-08",
+      "contributor": "https://github.com/megasanjay/test/pull/41/files",
       "type": "Role"
     }
   ],
@@ -57,16 +57,12 @@
   },
   "codeRepository": "https://github.com/megasanjay/test",
   "contIntegration": "https://github.com/megasanjay/test/pull/41/files",
-  "dateCreated": "2023-10-26",
-  "dateModified": "2024-10-09",
-  "datePublished": "2024-10-09",
+  "dateCreated": "2023-10-25",
+  "dateModified": "2024-10-08",
+  "datePublished": "2024-10-08",
   "description": "Hello",
   "developmentStatus": "active",
   "downloadUrl": "https://github.com/megasanjay/test/pull/41/files",
-  "funder": {
-    "name": "sdfsdf",
-    "type": "Organization"
-  },
   "funding": "dsfdsf",
   "identifier": "10.5281/zenodo.13917292",
   "isPartOf": "https://github.com/megasanjay/test/pull/41/files",
@@ -82,10 +78,6 @@
   "programmingLanguage": [
     "C#",
     "C++"
-  ],
-  "relatedLink": [
-    "https://github.com/megasanjay/test/pull/41/files",
-    "https://github.com/megasanjay/test/pull/41/files"
   ],
   "runtimePlatform": [
     ".Net"
