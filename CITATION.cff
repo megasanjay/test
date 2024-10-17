@@ -7,12 +7,12 @@ authors:
 cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 type: software
-doi: 10.5281/zenodo.118646
+doi: 10.5281/zenodo.118757
 abstract: Hello
 keywords:
   - asdas
   - dsfs s df
 license: APSL-2.0
 repository-code: https://github.com/megasanjay/test
-date-released: 2024-10-15
-version: v6
+date-released: '2024-10-17'
+version: v9.5.3
