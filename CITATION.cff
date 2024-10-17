@@ -1,4 +1,4 @@
-title: test
+title: exist test
 authors:
   - given-names: Sanjay
     family-names: Soundarajan
@@ -12,7 +12,7 @@ abstract: Hello
 keywords:
   - asdas
   - dsfs s df
-license: https://spdx.org/licenses/APSL-2.0
+license: APSL-2.0
 repository-code: https://github.com/megasanjay/test
-date-released: '2024-10-16'
+date-released: 2024-10-15
 version: v6
