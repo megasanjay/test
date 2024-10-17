@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "exist test",
   "@context": "https://w3id.org/codemeta/3.0",
   "applicationCategory": "Authentication server",
   "author": [
@@ -15,16 +15,16 @@
       "type": "Person"
     },
     {
-      "endDate": "2024-10-29",
+      "endDate": "2024-10-28",
       "roleName": "Test ",
-      "startDate": "2024-10-29",
+      "startDate": "2024-10-28",
       "schema:author": "https://github.com/megasanjay/test/pull/41/files",
       "type": "Role"
     },
     {
-      "endDate": "2024-10-22",
+      "endDate": "2024-10-21",
       "roleName": "role 2",
-      "startDate": "2024-10-22",
+      "startDate": "2024-10-21",
       "schema:author": "https://github.com/megasanjay/test/pull/41/files",
       "type": "Role"
     }
@@ -42,10 +42,10 @@
       "type": "Person"
     },
     {
-      "endDate": "2024-10-02",
+      "endDate": "2024-10-08",
       "roleName": "role 1",
-      "startDate": "2024-10-09",
-      "schema:contributor": "https://github.com/megasanjay/test/pull/41/files",
+      "startDate": "2024-10-01",
+      "contributor": "https://github.com/megasanjay/test/pull/41/files",
       "type": "Role"
     }
   ],
@@ -57,9 +57,9 @@
   },
   "codeRepository": "https://github.com/megasanjay/test",
   "contIntegration": "https://github.com/megasanjay/test/pull/41/files",
-  "dateCreated": "2023-10-26",
-  "dateModified": "2024-10-16",
-  "datePublished": "2024-10-09",
+  "dateCreated": "2023-10-25",
+  "dateModified": "2024-10-15",
+  "datePublished": "2024-10-08",
   "description": "Hello",
   "developmentStatus": "active",
   "downloadUrl": "https://github.com/megasanjay/test/pull/41/files",
